@@ -4,7 +4,7 @@ How Data to be Visualization
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Process Visualization](#Process-Visualization)
+- [Process Visualization](#Process-of-Visualization)
 - [Data Visualization Format](#Data-Visualization-Format)
 - [Recommendations](#recommendations)
 
@@ -34,9 +34,13 @@ Bar charts are very versatile and are commonly used to compare discrete categori
    
 2. Histograms
 
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.43.13.png?w=530)
+
 Histograms present variables in the form of bars, where the surface of each bar corresponds to the frequency of the value represented.
 
 3. Pie Charts
+
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
 
 Pie charts are in the form of a circle divided into several sectors/lines with each circle representing a part of the whole.
 
