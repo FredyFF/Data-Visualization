@@ -32,3 +32,42 @@ Several graphs can be used to transform the data we have into information.
 Bar charts are very versatile and are commonly used to compare discrete categories to analyze changes over time, or compare multiple pieces of data.
 
    
+2. Histograms
+
+Histograms present variables in the form of bars, where the surface of each bar corresponds to the frequency of the value represented.
+
+3. Pie Charts
+
+Pie charts are in the form of a circle divided into several sectors/lines with each circle representing a part of the whole.
+
+4. Scatter Plots
+
+Scatter plots use a distribution of points on a Cartesian coordinate plane to show the relationship between two variables.
+
+5. Heat Maps
+
+Heat maps represent individual values ​​from a data set in a matrix using color variations or color intensity.
+
+6. Line Charts
+
+Line charts are used to show changes or changing trends in data over a period of time.
+
+7. Bubble Charts
+
+These graphs display three-dimensional data and highlight data on distribution maps and diagrams.
+
+8. Radar Charts
+
+Radar charts are a form of representation built around regular polygons contained in a circle, where the radius guiding the points is the axis along which the values ​​are represented.
+
+9. Waterfall Charts
+
+This graph helps in understanding the cumulative effect of positive and negative values ​​on variables in sequential form.
+
+10. Tree Maps
+
+Tree maps display multilevel (hierarchical) data in the form of a tree structure.&nbsp;
+
+11. Charts Area
+
+Area charts represent the relationship of a series over time, but unlike line charts, these charts can present volume.
