@@ -52,42 +52,42 @@ Scatter plots use a distribution of points on a Cartesian coordinate plane to sh
 
 5. Heat Maps
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.01.23.png?w=530)
 
 Heat maps represent individual values ​​from a data set in a matrix using color variations or color intensity.
 
 6. Line Charts
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.04.51.png?w=530)
 
 Line charts are used to show changes or changing trends in data over a period of time.
 
 7. Bubble Charts
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.07.51.png?w=530)
 
 These graphs display three-dimensional data and highlight data on distribution maps and diagrams.
 
 8. Radar Charts
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.10.59.png?w=530)
 
 Radar charts are a form of representation built around regular polygons contained in a circle, where the radius guiding the points is the axis along which the values ​​are represented.
 
 9. Waterfall Charts
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.14.36.png?w=530)
 
 This graph helps in understanding the cumulative effect of positive and negative values ​​on variables in sequential form.
 
 10. Tree Maps
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.21.38.png?w=800)
 
 Tree maps display multilevel (hierarchical) data in the form of a tree structure.&nbsp;
 
 11. Charts Area
 
-![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.25.18.png?w=530)
 
 Area charts represent the relationship of a series over time, but unlike line charts, these charts can present volume.
