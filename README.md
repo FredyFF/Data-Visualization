@@ -46,32 +46,48 @@ Pie charts are in the form of a circle divided into several sectors/lines with e
 
 4. Scatter Plots
 
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-09.55.00.png?w=530)
+
 Scatter plots use a distribution of points on a Cartesian coordinate plane to show the relationship between two variables.
 
 5. Heat Maps
+
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
 
 Heat maps represent individual values ​​from a data set in a matrix using color variations or color intensity.
 
 6. Line Charts
 
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+
 Line charts are used to show changes or changing trends in data over a period of time.
 
 7. Bubble Charts
+
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
 
 These graphs display three-dimensional data and highlight data on distribution maps and diagrams.
 
 8. Radar Charts
 
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+
 Radar charts are a form of representation built around regular polygons contained in a circle, where the radius guiding the points is the axis along which the values ​​are represented.
 
 9. Waterfall Charts
+
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
 
 This graph helps in understanding the cumulative effect of positive and negative values ​​on variables in sequential form.
 
 10. Tree Maps
 
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
+
 Tree maps display multilevel (hierarchical) data in the form of a tree structure.&nbsp;
 
 11. Charts Area
+
+![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-19-at-17.59.51.png?w=450)
 
 Area charts represent the relationship of a series over time, but unlike line charts, these charts can present volume.
