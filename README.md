@@ -5,8 +5,11 @@ How Data to be Visualization
 
 - [Project Overview](#project-overview)
 - [Process Visualization](#Process-of-Visualization)
-- [Data Visualization Format](#Data-Visualization-Format)
+- [Data Visualization Format](#Data-Visualization-Form)
+- [Results/Findings](#Results/Findings)
 - [Recommendations](#recommendations)
+- [Limitations](#Limitations)
+- [References](#References)
 
 ### Project Overview
 This data analysis project aims to provide insights into the data could be transform to visualization. Recognize patern of data and seek the goal of the data mining, we will make visualization
