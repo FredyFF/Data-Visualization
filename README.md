@@ -23,7 +23,7 @@ data into many form for describe the data understanding.
    Forms a visual representation by defining the graphic source, language, context, and colors of the representation all tailored to the recipient.
 
 3. Perception and Interpretation
-   Visualisasi menjadi efektif ketika dapat memberikan pengaruh terhadap konstruksi pengetahuan.
+   Visualization becomes effective when it can influence knowledge construction.
 
 ### Tools
 
