@@ -22,6 +22,10 @@ data into many form for describe the data understanding.
 3. Perception and Interpretation
    Visualisasi menjadi efektif ketika dapat memberikan pengaruh terhadap konstruksi pengetahuan.
 
+### Tools
+
+- Jupyter Lab - Creating reports / Visualization
+
 ### Data Visualization Form
 Several graphs can be used to transform the data we have into information.
 
@@ -91,3 +95,25 @@ Tree maps display multilevel (hierarchical) data in the form of a tree structure
 ![alt text](https://fredyfirmansyah107.wordpress.com/wp-content/uploads/2024/08/screen-shot-2024-08-20-at-10.25.18.png?w=530)
 
 Area charts represent the relationship of a series over time, but unlike line charts, these charts can present volume.
+
+-----
+
+### Results/Findings
+The analysis results are summarized as follows:
+1. Many models can be represented from visualized data. This means that to gain broad and deep insight it is necessary to form a deep understanding of the data.
+2. Visualization does not only refer to a benchmark, but can be varied in various forms that are in accordance with general understanding
+___
+
+### Recommendations
+Based on the analysis, we recommend the following actions:
+Use imagination and relevant approaches to create data visualization aimed at finding good and accurate results
+
+### Limitations
+This visualization is only a small part of the forms provided, there are many more attractive visualizations. Need deeper encouragement to gain insight from the visualization displayed. much closer and can be felt if the data can be felt by researchers
+
+### References
+plotly.com
+https://www.w3schools.com/
+
+
+
