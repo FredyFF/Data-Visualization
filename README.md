@@ -112,8 +112,8 @@ Use imagination and relevant approaches to create data visualization aimed at fi
 This visualization is only a small part of the forms provided, there are many more attractive visualizations. Need deeper encouragement to gain insight from the visualization displayed. much closer and can be felt if the data can be felt by researchers
 
 ### References
-plotly.com
-https://www.w3schools.com/
+- plotly.com
+- https://www.w3schools.com/
 
 
 
